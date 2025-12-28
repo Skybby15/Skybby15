@@ -58,7 +58,7 @@ A cross-platform mobile application built for **Android and iOS**, including bot
 * **Mobile:** Expo, NativeWind, PrimeNG, ShadCN
 * **Backend:** Java, MongoDB, REST APIs
 * **Cloud & DevOps:** Firebase, Docker
-* **Languages:** JavaScript, TypeScript, Java
+* **Languages:** JavaScript, TypeScript, Java, C#, Python, C/C++, HTML & CSS 
 * **Other:** Git, GitHub
 
 ---
