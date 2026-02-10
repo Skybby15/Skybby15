@@ -2,7 +2,7 @@
 
 ## I'm Sava Claudiu Ionut
 
-I’m a Computer Science student passionate about **full-stack and mobile development**, with a strong focus on building **real-world applications** using modern technologies. I enjoy working across the entire stack — from clean, responsive user interfaces to scalable backends and cloud services — and I’m constantly learning new tools and best practices.
+I’m a Computer Science student passionate about **software development**, with a strong focus on building **real-world applications** using modern technologies. I enjoy working across the entire stack — from clean, responsive user interfaces to scalable backends and cloud services — I’m constantly learning new tools and best practices and I'm always eager to be a part of team based environment that thrives and develops together.
 
 ---
 
