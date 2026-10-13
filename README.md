@@ -8,6 +8,15 @@ I’m a Computer Science student passionate about **software development**, with
 
 ## 🚀 Featured Projects
 
+### 🌍 Spheres
+[Frontend](https://github.com/Skybby15/AllRound-Frontend) [Backend](https://github.com/Skybby15/AllRound-Backend)
+
+A file-sharing application currently under development, designed to let users upload, organize, and share files and folders in a simple and intuitive way.
+
+* **Frontend:** React, Next.js, ShadCN 
+* **Backend:** Java, Quarkus
+* **Others:** Docker, Github Actions, Flyway, Postgres, Firebase
+
 ### 📚 [StudyFlow *(Frontend)*](https://github.com/Skybby15/ProiectColectivFrontEnd)
 
 A collaborative studying platform designed to make learning more effective through **topic-based teams** and structured cooperation between students. This repository represents the **frontend** of a larger project.
